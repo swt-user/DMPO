@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: webshop
+Version: 0.1
+Summary: webshop pip package version
+Home-page: https://github.com/yourusername/mypackage
+Author: Your Name
+Author-email: youremail@example.com
+License: MIT
+Keywords: sample setuptools development
+Requires-Dist: beautifulsoup4==4.11.1
+Requires-Dist: cleantext==1.1.4
+Requires-Dist: env==0.1.0
+Requires-Dist: faiss-cpu==1.7.4
+Requires-Dist: Flask==2.1.2
+Requires-Dist: gym==0.24.0
+Requires-Dist: pyserini==0.17.0
+Requires-Dist: pytest
+Requires-Dist: rank_bm25==0.2.2
+Requires-Dist: requests_mock
+Requires-Dist: scikit_learn==1.1.1
+Requires-Dist: selenium==4.2.0
+Requires-Dist: spacy==3.6.1
+Requires-Dist: thinc==8.1.12
+Requires-Dist: thefuzz==0.20.0
+Requires-Dist: werkzeug==2.3.8
